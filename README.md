@@ -111,7 +111,7 @@ def profile(request):
 
 ### TypeError: Cannot read property '?' of null
 
-![image-20200623142358282](E:\visualcode\my_web_pjt\final\django\images/image-20200623142358282.png)
+![image-20200623142358282](../../../../TIL/web/0622/images/image-20200623142358282.png)
 
 > **vue의 TypeError**
 
@@ -193,7 +193,7 @@ git의 가장 큰 장점 그리고 충돌을 관리하는 방법은 진행상황
 
 branch는 git에서의 진행상황을 트리로 분리하는 좋은 장치이다. branch를 사용해 구현하려는 기능별로 상태를 저장하고 이를 병합 할 수 있다. branch별로 다른 워킹 디렉토리를 가지기 때문에 어떤 기능을 구현할 때 독립된 상태에서 구현을 할 수 있다는 것이 큰 특징이다.
 
-![image-20200623102917715](E:\visualcode\my_web_pjt\final\django\images/image-20200623102917715.png)
+![image-20200623102917715](../../../../TIL/web/0622/images/image-20200623102917715.png)
 
 > **git의 branch 예시** | 출처: [누구나 쉽게 이해할 수 있는 Git](https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html)
 
